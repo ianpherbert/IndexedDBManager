@@ -40,4 +40,4 @@ For more information on how to use the class, please refer to the documentation 
 Contributions are welcome! Please open an issue or a pull request if you have any suggestions or improvements.
 
 ### License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the MIT License
