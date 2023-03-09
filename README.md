@@ -34,8 +34,6 @@ deleteRecord(id): Deletes a record from the object store by ID.
 clearStore(): Deletes all records from the object store.
 ``` 
 
-For more information on how to use the class, please refer to the documentation and examples.
-
 ### Contributing
 Contributions are welcome! Please open an issue or a pull request if you have any suggestions or improvements.
 
